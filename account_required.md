@@ -1,3 +1,4 @@
+## Ledger accounts
 ### Asset accounts
 - cash book
 - debtors account
@@ -30,3 +31,19 @@
 - interest income
 - rent income
 
+
+## Prime entry books
+
+- cash book
+- bank account
+- petty cash book
+- purchase journal
+- sales journal
+- general journal
+
+## Others
+
+- trial balance
+- bank reconciliation statement
+- profit and loss statement
+- financial position statement
